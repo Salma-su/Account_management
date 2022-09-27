@@ -1,16 +1,8 @@
-Hello,
-I have a small project of accounts management build by spring mvc, hibernate, spring Security.
-
--I want you to fix an error for me(Missing URI template variable 'login' for method parameter of type String).
-And add some features to the project, almost 2 features.
-
-I will explain to you the details and how do that if u accept, because I need it before tomorrow.
-
 ************************************
 	Import and install 
 ************************************
 
-1- under maria db create the database  gs_absence_database  
+1- under maria db create the database  accounts 
 2- Preferably check that your server does not contain any other application
 3- import the project and execute mvn intsall and mvn update
 4- Start the application and check that the tables are created correctly
